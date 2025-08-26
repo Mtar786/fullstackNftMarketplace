@@ -1,5 +1,6 @@
 # Full‑Stack NFT Marketplace
 
+
 This repository contains a complete end‑to‑end NFT marketplace built with **Solidity**, **Hardhat** and **Next.js**.  The project allows users to mint ERC‑721 non‑fungible tokens, list them for sale, buy existing NFTs and view their personal collections.  It supports deployment to any EVM‑compatible network, including **Ethereum** and **Polygon**.
 
 ## Features
